@@ -7,4 +7,4 @@ Kivy-Garden==0.1.4
 py-enigma==0.1
 Pygments==2.5.2
 requests==2.22.0
-urllib3==1.25.7
+urllib3==1.26.5
